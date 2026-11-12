@@ -1,8 +1,10 @@
-# Luban
+# SadSha Config
+
+> SadSha Config — the SadSha build of Luban, a powerful game configuration solution.
 
 ![icon](docs/images/logo.png)
 
-[![license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT) ![star](https://img.shields.io/github/stars/focus-creative-games/luban?style=flat-square)
+[![license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT) ![star](https://img.shields.io/github/stars/fnjlabs-arch/luban?style=flat-square)
 
 **中文** | [English](./README_EN.md)
 
@@ -61,4 +63,4 @@ dotnet test src/Luban.Tests/Luban.Tests.csproj
 
 ## license
 
-Luban is licensed under the [MIT](https://github.com/focus-creative-games/luban/blob/main/LICENSE) license
+Luban is licensed under the [MIT](https://github.com/fnjlabs-arch/luban/blob/main/LICENSE) license

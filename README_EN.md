@@ -1,19 +1,21 @@
-# Luban
+# SadSha Config
+
+> SadSha Config — the SadSha build of Luban, a powerful game configuration solution.
 
 ![icon](docs/images/logo.png)
 
-[![license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT) ![star](https://img.shields.io/github/stars/focus-creative-games/luban?style=flat-square)
+[![license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT) ![star](https://img.shields.io/github/stars/fnjlabs-arch/luban?style=flat-square)
 
 [中文](./README.md) | **English**
 
-luban is a powerful, easy-to-use, elegant, and stable game configuration solution. It is designed to meet the needs of simple to complex game configuration workflows from small to very large game projects.
+SadSha Config is a powerful, easy-to-use, elegant, and stable game configuration solution. It is designed to meet the needs of simple to complex game configuration workflows from small to very large game projects.
 
-luban can handle a variety of file types, supports popular languages, can generate multiple export formats, supports rich data inspection functions, has good cross-platform capabilities, and generates extremely fast.
-Luban has a clear and elegant generation pipeline design, supports good modularization and plug-in, and is convenient for developers to carry out secondary development. Developers can easily adapt luban to their own configuration format, and customize powerful configuration tools that meet project requirements.
+SadSha Config can handle a variety of file types, supports popular languages, can generate multiple export formats, supports rich data inspection functions, has good cross-platform capabilities, and generates extremely fast.
+SadSha Config has a clear and elegant generation pipeline design, supports good modularization and plug-in, and is convenient for developers to carry out secondary development. Developers can easily adapt SadSha Config to their own configuration format, and customize powerful configuration tools that meet project requirements.
 
-Luban standardizes the game configuration development workflow, which can greatly improve the efficiency of planning and programming.
+SadSha Config standardizes the game configuration development workflow, which can greatly improve the efficiency of planning and programming.
 
-Since **5.0.0**, Luban is **AI Native**: official Agent Skills, machine-readable schema and diagnostics, `Luban.Agent` CLI, and an MCP Server—so agents can reliably add tables, inspect schema, validate, and generate.
+Since **5.0.0**, SadSha Config is **AI Native**: official Agent Skills, machine-readable schema and diagnostics, `Luban.Agent` CLI, and an MCP Server—so agents can reliably add tables, inspect schema, validate, and generate.
 
 ## Core features
 
@@ -63,4 +65,4 @@ dotnet test src/Luban.Tests/Luban.Tests.csproj
 
 ## license
 
-Luban is licensed under the [MIT](https://github.com/focus-creative-games/luban/blob/main/LICENSE) license
+Luban is licensed under the [MIT](https://github.com/fnjlabs-arch/luban/blob/main/LICENSE) license

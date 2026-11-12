@@ -401,8 +401,8 @@ internal static class Program
     {
         s_logger.Info(" ==========================================================================================");
         s_logger.Info("");
-        s_logger.Info("  Luban is developed by Code Philosophy Technology Co., LTD. https://code-philosophy.com");
-        s_logger.Info("  Github: https://github.com/focus-creative-games/luban");
+        s_logger.Info("  SadSha Config - based on Luban (MIT, Copyright (c) 2023 Code Philosophy Technology Ltd.)");
+        s_logger.Info("  Github: https://github.com/fnjlabs-arch/luban");
         s_logger.Info("  Document: https://www.datable.cn");
         s_logger.Info("");
         s_logger.Info(" ==========================================================================================");

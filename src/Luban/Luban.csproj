@@ -29,7 +29,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>disable</Nullable>
         <OutputType>Exe</OutputType>
-        <RepositoryUrl>https://github.com/focus-creative-games/luban</RepositoryUrl>
+        <RepositoryUrl>https://github.com/fnjlabs-arch/luban</RepositoryUrl>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackAsTool>True</PackAsTool>
         <FileVersion>$(AssemblyVersion)</FileVersion>
